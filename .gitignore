@@ -1,0 +1,4 @@
+# 忽略的文件夹
+/WiFi_SerialPassThroughModule/History/
+/ESP8266_WiFiSerialPassThrough/bin/
+.ERR

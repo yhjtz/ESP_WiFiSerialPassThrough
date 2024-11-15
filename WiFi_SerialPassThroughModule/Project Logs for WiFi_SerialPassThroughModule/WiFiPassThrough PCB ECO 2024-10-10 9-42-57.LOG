@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C4 Old Footprint=TAJ-A New Footprint=CAP-SMD_L3.2-W1.6-RD-C7171
+Change Component Footprint: Designator=C1 Old Footprint=TAJ-A New Footprint=CASE-E_7343
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=10uF
